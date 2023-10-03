@@ -1,5 +1,4 @@
 /* eslint-disable react/prop-types */
-import React from 'react'
 
 const Todo = ({todo, removeTodo, completeTodo}) => {
   return (
